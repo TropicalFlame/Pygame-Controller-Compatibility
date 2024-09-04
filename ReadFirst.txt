@@ -1,0 +1,16 @@
+Hello, Thanks for Downloading
+
+
+A few things you need to know
+
+-This will only work through pygame
+-There are differences in different controllers
+-This is used as a demonstration simply for the buttons, the analog stick motion wont work but if requested I can make a fully functional one in the future.
+
+If you do not have pygame installed on your pc, simply go to your Terminal and enter "pip install pygame"
+
+I used an xbox one controller when making this, therefore the print action is configured for the xbox controller. If you would like to learn how to use a different platform controller you can find the inputs here:
+https://www.pygame.org/docs/ref/joystick.html
+
+and finally if you have any questions, let me know
+my discord is tropical_flame
